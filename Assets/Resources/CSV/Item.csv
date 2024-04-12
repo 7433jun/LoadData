@@ -1,0 +1,21 @@
+ItemID,Name,Type,Value,Icon
+2001,Keyboard,Peripheral,50,Icon/ItemIcon/Arrow
+2002,Mouse,Peripheral,30,Icon/ItemIcon/Axe
+2003,Monitor,Peripheral,200,Icon/ItemIcon/Bow
+2004,Headphones,Peripheral,100,Icon/ItemIcon/Emerald Staff
+2005,Desk,Furniture,150,Icon/ItemIcon/Golden Sword
+2006,Chair,Furniture,120,Icon/ItemIcon/Hammer
+2007,Printer,Peripheral,120,Icon/ItemIcon/Iron Shield
+2008,Desk Lamp,Accessory,20,Icon/ItemIcon/Iron Sword
+2009,External Hard Drive,Storage,80,Icon/ItemIcon/Knife
+2010,Webcam,Peripheral,50,Icon/ItemIcon/Magic Wand
+2011,Speakers,Peripheral,80,Icon/ItemIcon/Pickaxe
+2012,Scanner,Peripheral,80,Icon/ItemIcon/Ruby Staff
+2013,Laptop,Device,800,Icon/ItemIcon/Sapphire Staff
+2014,Tablet,Device,400,Icon/ItemIcon/Shovel
+2015,Smartphone,Device,700,Icon/ItemIcon/Silver Sword
+2016,Router,Networking,100,Icon/ItemIcon/Topaz Staff
+2017,Modem,Networking,80,Icon/ItemIcon/Torch
+2018,Ethernet Cable,Networking,10,Icon/ItemIcon/Wooden Shield
+2019,USB Flash Drive,Storage,20,Icon/ItemIcon/Wooden Staff
+2020,Wireless Mouse,Peripheral,40,Icon/ItemIcon/Wooden Sword

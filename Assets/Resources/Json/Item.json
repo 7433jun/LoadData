@@ -1,0 +1,142 @@
+[
+  {
+    "itemID": 2001,
+    "name": "Keyboard",
+    "type": "Peripheral",
+    "value": 50.0,
+    "iconPath": "Icon/ItemIcon/Arrow"
+  },
+  {
+    "itemID": 2002,
+    "name": "Mouse",
+    "type": "Peripheral",
+    "value": 30.0,
+    "iconPath": "Icon/ItemIcon/Axe"
+  },
+  {
+    "itemID": 2003,
+    "name": "Monitor",
+    "type": "Peripheral",
+    "value": 200.0,
+    "iconPath": "Icon/ItemIcon/Bow"
+  },
+  {
+    "itemID": 2004,
+    "name": "Headphones",
+    "type": "Peripheral",
+    "value": 100.0,
+    "iconPath": "Icon/ItemIcon/Emerald Staff"
+  },
+  {
+    "itemID": 2005,
+    "name": "Desk",
+    "type": "Furniture",
+    "value": 150.0,
+    "iconPath": "Icon/ItemIcon/Golden Sword"
+  },
+  {
+    "itemID": 2006,
+    "name": "Chair",
+    "type": "Furniture",
+    "value": 120.0,
+    "iconPath": "Icon/ItemIcon/Hammer"
+  },
+  {
+    "itemID": 2007,
+    "name": "Printer",
+    "type": "Peripheral",
+    "value": 120.0,
+    "iconPath": "Icon/ItemIcon/Iron Shield"
+  },
+  {
+    "itemID": 2008,
+    "name": "Desk Lamp",
+    "type": "Accessory",
+    "value": 20.0,
+    "iconPath": "Icon/ItemIcon/Iron Sword"
+  },
+  {
+    "itemID": 2009,
+    "name": "External Hard Drive",
+    "type": "Storage",
+    "value": 80.0,
+    "iconPath": "Icon/ItemIcon/Knife"
+  },
+  {
+    "itemID": 2010,
+    "name": "Webcam",
+    "type": "Peripheral",
+    "value": 50.0,
+    "iconPath": "Icon/ItemIcon/Magic Wand"
+  },
+  {
+    "itemID": 2011,
+    "name": "Speakers",
+    "type": "Peripheral",
+    "value": 80.0,
+    "iconPath": "Icon/ItemIcon/Pickaxe"
+  },
+  {
+    "itemID": 2012,
+    "name": "Scanner",
+    "type": "Peripheral",
+    "value": 80.0,
+    "iconPath": "Icon/ItemIcon/Ruby Staff"
+  },
+  {
+    "itemID": 2013,
+    "name": "Laptop",
+    "type": "Device",
+    "value": 800.0,
+    "iconPath": "Icon/ItemIcon/Sapphire Staff"
+  },
+  {
+    "itemID": 2014,
+    "name": "Tablet",
+    "type": "Device",
+    "value": 400.0,
+    "iconPath": "Icon/ItemIcon/Shovel"
+  },
+  {
+    "itemID": 2015,
+    "name": "Smartphone",
+    "type": "Device",
+    "value": 700.0,
+    "iconPath": "Icon/ItemIcon/Silver Sword"
+  },
+  {
+    "itemID": 2016,
+    "name": "Router",
+    "type": "Networking",
+    "value": 100.0,
+    "iconPath": "Icon/ItemIcon/Topaz Staff"
+  },
+  {
+    "itemID": 2017,
+    "name": "Modem",
+    "type": "Networking",
+    "value": 80.0,
+    "iconPath": "Icon/ItemIcon/Torch"
+  },
+  {
+    "itemID": 2018,
+    "name": "Ethernet Cable",
+    "type": "Networking",
+    "value": 10.0,
+    "iconPath": "Icon/ItemIcon/Wooden Shield"
+  },
+  {
+    "itemID": 2019,
+    "name": "USB Flash Drive",
+    "type": "Storage",
+    "value": 20.0,
+    "iconPath": "Icon/ItemIcon/Wooden Staff"
+  },
+  {
+    "itemID": 2020,
+    "name": "Wireless Mouse",
+    "type": "Peripheral",
+    "value": 40.0,
+    "iconPath": "Icon/ItemIcon/Wooden Sword"
+  }
+]

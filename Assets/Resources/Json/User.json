@@ -1,0 +1,62 @@
+[
+  {
+    "userID": 1001,
+    "name": "Alice",
+    "level": 15,
+    "money": 800.0
+  },
+  {
+    "userID": 1002,
+    "name": "Bob",
+    "level": 10,
+    "money": 500.0
+  },
+  {
+    "userID": 1003,
+    "name": "Charlie",
+    "level": 18,
+    "money": 900.0
+  },
+  {
+    "userID": 1004,
+    "name": "David",
+    "level": 8,
+    "money": 300.0
+  },
+  {
+    "userID": 1005,
+    "name": "Eve",
+    "level": 12,
+    "money": 700.0
+  },
+  {
+    "userID": 1006,
+    "name": "Frank",
+    "level": 20,
+    "money": 1000.0
+  },
+  {
+    "userID": 1007,
+    "name": "Grace",
+    "level": 5,
+    "money": 200.0
+  },
+  {
+    "userID": 1008,
+    "name": "Henry",
+    "level": 14,
+    "money": 750.0
+  },
+  {
+    "userID": 1009,
+    "name": "Ivy",
+    "level": 11,
+    "money": 600.0
+  },
+  {
+    "userID": 1010,
+    "name": "Jack",
+    "level": 19,
+    "money": 950.0
+  }
+]
