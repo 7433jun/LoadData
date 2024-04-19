@@ -72,5 +72,7 @@ public class LoadCSV : MonoBehaviour
             }
 
         }
+
+        sr.Close();
     }
 }
